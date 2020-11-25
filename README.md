@@ -12,12 +12,26 @@
     </tr>
   </thead>
   <tbody>
+	  <tr>
+	    <td><a href="https://github.com/doitintl/superpy"><b>superPy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/doitintl/superpy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/doitintl/superpy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/doitintl/superpy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/doitintl/superpy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
 	    <td><a href="https://github.com/ebendutoit/google-bigquery-data-modeller"><b>Google BigQuery Data Modeller</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ebendutoit/google-bigquery-data-modeller?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ebendutoit/google-bigquery-data-modeller?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ebendutoit/google-bigquery-data-modeller?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ebendutoit/google-bigquery-data-modeller?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+	    <td><a href="https://github.com/ebendutoit/json_flattener"><b>JSON flattener</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ebendutoit/json_flattener?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ebendutoit/json_flattener?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ebendutoit/json_flattener?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ebendutoit/json_flattener?style=flat-square&labelColor=343b41"/>	</td>
     </tr>
   </tbody>
 </table>
