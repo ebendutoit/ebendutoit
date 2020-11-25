@@ -9,9 +9,16 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
-    </tr>
+    </tr> 
   </thead>
   <tbody>
+	    <tr>
+	    <td><a href="https://github.com/ebendutoit/zetasql-analyzer-server"><b>zetaSQL Analyzer Server</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ebendutoit/zetasql-analyzer-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ebendutoit/zetasql-analyzer-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ebendutoit/zetasql-analyzer-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ebendutoit/zetasql-analyzer-server?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	  <tr>
 	    <td><a href="https://github.com/doitintl/superpy"><b>superPy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/doitintl/superpy?style=flat-square&labelColor=343b41"/></td>
